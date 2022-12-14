@@ -10,6 +10,7 @@ function Login() {
             password:'12345678'
         })
         // console.log()
+        // asdfasdfas
     }
     return (
         <View>
